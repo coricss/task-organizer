@@ -1,0 +1,28 @@
+.TaskOrganizer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+hr {
+  width: 100%;
+  border: 1px solid #2e2e2e !important;
+}
+
+.TaskOrganizer-container{
+  width: 400px;
+}
+
+.TaskOrganizer-input {
+  width: 100%;
+  border: none !important;
+  box-shadow: none !important;
+  color: #fff !important;
+}
+
+.TaskOrganizer-button {
+  border: none !important;
+  box-shadow: none !important;
+}
