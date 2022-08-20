@@ -24,7 +24,7 @@ const TaskOrganizer = () => (
       <hr></hr>
       <div className="TaskOrganizer-list">
         <div className="TaskNotFound text-center">
-          <img src={NoTask} width="400px"/>
+          <img src={NoTask} width="350px"/>
           <p className='text-info fw-bold fs-6'>No tasks found</p>
         </div>
         {/* <div className="TaskOrganizer-list-item d-flex align-items-center gap-2">
